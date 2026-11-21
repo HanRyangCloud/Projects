@@ -4,6 +4,36 @@
 웹 검색으로 찾은 링크 위주이며, 이미지 파일은 저작권 때문에 내려받지 않았습니다. 링크를 열어 직접 확인해 주세요.
 "디자인 방향 제안"은 조사 내용을 바탕으로 한 제 제안입니다.
 
+> **목표 화풍 (추가 정보)**: 붕괴: 스타레일, 명조(Wuthering Waves) 같은 애니풍 가챠 게임 캐릭터 화풍. 그래서 아래 **0번 섹션을 가장 먼저** 보시면 됩니다. 1번 이후는 타로 도상과 소품 참고용입니다.
+
+---
+
+## 0. 스타레일·명조풍 화풍 레퍼런스
+
+### 점술/타로 모티프를 쓴 같은 계열 캐릭터
+| 캐릭터 | 참고 포인트 | 링크 |
+|---|---|---|
+| **스타레일 Black Swan(블랙 스완)** | 가장 직접적인 레퍼런스. 수정구, 카드, 고서, 촛불로 점술사임을 표현. 카드는 실제 타로풍이고 라이더-웨이트 덱을 쓰는 것으로 추정된다고 함. | [HoYoLab 공식 글](https://www.hoyolab.com/article/24605911) · [pixiv 백과](https://dic.pixiv.net/en/a/Black%20Swan%20(Honkai:%20Star%20Rail)) · [Esports.gg 스킬 정리](https://esports.gg/guides/honkai-star-rail/black-swan-honkai-star-rail-kit-abilities-arcana) |
+| **스타레일 Fu Xuan(부현)** | 라오푸 점복사(Divination Commission) 수장. 제3의 눈과 점술 장치 모티프. 의상 디자인 설명은 찾지 못했음. | [pixiv 백과](https://dic.pixiv.net/en/a/Fu+Xuan) · [ClutchPoints](https://clutchpoints.com/gaming/honkai-star-rail-fu-xuan) |
+| **스타레일 Revelation Cards** | 이벤트에서 캐릭터 14명을 타로 카드처럼 만든 일러스트. 이 화풍으로 캐릭터를 타로 카드 프레임에 넣은 예시. | [Siliconera](https://www.siliconera.com/honkai-star-rail-revelation-cards-of-characters-released/) |
+| **원신 Mona(모나)** | 점성술사. 같은 회사(HoYoverse)의 셀 셰이딩 화풍으로 점술 모티프를 쓴 대표 사례. | [pixiv 백과](https://dic.pixiv.net/en/a/Mona%20(Genshin%20Impact)) · [Fanlore](https://fanlore.org/wiki/Mona_(Genshin_Impact)) |
+
+명조(Wuthering Waves)에서는 이번 검색으로 점술·타로 컨셉의 캐릭터를 확인하지 못했습니다. 화풍 자체의 참고용으로 보세요.
+
+### 화풍 자료 (공식 아트·분석)
+- **스타레일 아트 갤러리**: [RPGFan](https://www.rpgfan.com/gallery/honkai-star-rail-artwork/)
+- **스타레일 컨셉 개발 과정**: 웰트 양의 컨셉이 3번의 디자인을 거쳐 최종안이 된 사례. [Siliconera](https://www.siliconera.com/honkai-impact-3rd-and-star-rail-welt-yang-concept-art-shared/)
+- **명조 아트**: [RPGFan 갤러리](https://www.rpgfan.com/gallery/wuthering-waves-artwork/) · [Creative Uncut](https://www.creativeuncut.com/art_wuthering-waves_a.html) · [Eagle 캐릭터 리소스](https://community-en.eagle.cool/resource/characters-wutheringwaves)
+- **명조 캐릭터 디자인 접근**: 캐릭터마다 하나의 고유한 특징에서 출발하고, 중국 문화 요소를 녹이며, 테크웨어와 애니/만화풍 색감·의상을 섞어 배경에서 돋보이게 함. 채도는 비교적 차분한 편이라는 평가. [Game Developer](https://gamedeveloper.com/design/making-a-splash-how-wuthering-waves-characters-draw-players-into-its-world) · [Unreal Engine 인터뷰](https://www.unrealengine.com/developer-interviews/exploring-the-post-apocalyptic-charm-of-asg-open-worlds-in-wuthering-waves)
+- **명조 렌더링**: 평면 셀 느낌보다 그라데이션과 강한 색보정 중심. [Automaton 인터뷰](https://automaton-media.com/en/column/wuthering-waves-is-full-of-beautiful-technical-headaches-that-would-make-the-average-ue-developer-say-please-dont-make-me-do-this/)
+- **HoYoverse 공통 화풍**: 셀 셰이딩을 전 타이틀에 공통 적용. [ONE Esports](https://www.oneesports.gg/genshin-impact/genshin-impact-players-honkai-star-rail/)
+
+### 2D 게임에 적용할 때 참고 (제 제안)
+이 화풍들은 원래 3D 모델 기반이라, 2D 게임에서는 **스플래시 아트(일러스트)와 대사창 스프라이트**가 실질적인 레퍼런스입니다.
+- 캐릭터마다 시그니처 소품과 실루엣을 하나씩 두는 설계가 공통 문법입니다. 점술사라면 카드, 수정구, 촛불 중 하나를 대표 소품으로 잡으면 됩니다.
+- 타로 카드 프레임 안에 캐릭터를 넣는 Revelation Cards 방식은 이 게임의 카드 UI와 통일하기 좋습니다.
+- 이번에 찾은 자료에는 일러스트레이터 개인의 작업 과정이나 선화·채색 기법 해설이 없었습니다. 그 부분은 pixiv, ArtStation에서 "崩壊スターレイル ファンアート", "鳴潮 イラスト" 등으로 직접 찾아보시는 게 빠릅니다.
+
 ---
 
 ## 1. 게임·만화 속 타로/점술사 캐릭터
@@ -57,11 +87,11 @@
 
 ## 6. 디자인 방향 제안 (제 제안)
 
-세 가지 방향을 먼저 무드보드로 만들어 비교해 보는 것을 권합니다.
+목표 화풍이 스타레일·명조풍이므로, 화풍은 0번 섹션을 따르고 **타로 도상만 아래 덱에서 가져오는** 구성을 권합니다. 어떤 덱의 도상을 쓸지 먼저 무드보드로 비교해 보세요.
 
-1. **Waite–Smith 클래식**: 여사제 도상(초승달, 두 기둥, 베일)을 의상에 녹임. 신비롭고 차분한 톤. 카드와 캐릭터의 통일감이 가장 좋음.
-2. **아르누보/무하**: 곡선 실루엣과 장식 테두리. 카드 일러스트와 캐릭터 포트레이트를 같은 프레임 문법으로 통일하기 쉬움. 2D 게임 UI와도 잘 맞음.
-3. **현대 비주얼노벨/게임풍**: The Arcana, Persona처럼 채도 높은 색과 강한 실루엣. 대사창 스프라이트(표정 차분)에 적합.
+1. **Waite–Smith 클래식**: 여사제 도상(초승달, 두 기둥, 베일)을 의상 디테일에 녹임. 신비롭고 차분한 톤. Black Swan이 이 덱을 쓰는 것으로 추정되는 만큼 화풍과도 잘 맞음.
+2. **아르누보/무하**: 곡선 장식 요소를 의상·카드 프레임에 활용. 카드 UI와 캐릭터 일러스트의 프레임 문법을 통일하기 쉬움.
+3. **다른 게임 화풍(The Arcana, Persona 등)**: 목표 화풍과 다르므로 소품·연출 참고용으로만 활용.
 
 캐릭터 설계 시 정해 둘 것: 나이대와 성격(친근한 상담가 / 냉소적 / 신비로운), 시그니처 소품 하나(수정구, 특정 덱, 촛불 등), 대표 색 2~3가지, 메이저 아르카나 중 상징 카드 한 장.
 
